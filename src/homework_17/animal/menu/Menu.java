@@ -1,10 +1,7 @@
 package homework_17.animal.menu;
 
 
-import homework_17.animal.Animal;
-import homework_17.animal.AnimalCao;
-import homework_17.animal.AnimalGato;
-import homework_17.animal.AnimalPeixe;
+import homework_17.animal.*;
 import java.util.Scanner;
 
 public class Menu {
