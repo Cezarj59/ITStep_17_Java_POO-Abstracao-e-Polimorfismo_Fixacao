@@ -6,16 +6,11 @@
 <ul>
 <li>Abstração </li>
 <li>POO</li>
-<li>Array</li>
-<li>Classes</li>
-<li>Métodos</li>
 <li>Herança</li>
 <li>Polimorfismo</li>
-<li>Constructor</li>
 <li>Getters</li>
 <li>Setters</li>
 <li>JOptionPane</li>
-<li>.equals()</li>
 </ul>
 
 
